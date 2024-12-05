@@ -49,6 +49,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <h2>✒️ Recent Posts</h2>
 <ul>
+<li><a target="_blank" href="https://fragmentedthoughts.jlroberts.me/posts/kotlin-2-1-0-guarded-when-what-how"</a></li>
 <li><a target="_blank" href="https://fragmentedthoughts.jlroberts.me/posts/hello-world">Hello world!</a></li>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://twitter.com/xoomdev" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
@@ -57,5 +58,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jlroberts1&show_icons=true&locale=en" alt="jlroberts1" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jlroberts1&" alt="jlroberts1" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jlroberts1&show_icons=true&locale=en&layout=compact" alt="jlroberts1" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jlroberts1" alt="jlroberts1" /></a></p>
 

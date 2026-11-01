@@ -5,7 +5,7 @@ Engineering leader and mobile-first software engineer. I've spent years shipping
 ### 🛠 What I'm building
 
 - **[Porthole](https://github.com/gravityrepos/porthole)**: a debug-only agent that lives inside a running Android app and tells you what recomposed and why, which frames dropped, and what's holding the main thread. Kotlin · Compose · MCP
-- **[Folieux](https://folieux.com)**: dating and relationship tools for the ethical non-monogamy community, with consent built into the data model.
+- **[Failure Case](https://www.youtube.com/@FailureCase)**: engineering postmortems on YouTube, produced with Slate, my Claude-driven pipeline for research, fact-checked scripts, narration, Remotion renders, and scheduled publishing.
 
 ### 📱 Apps I've worked on
 

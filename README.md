@@ -5,7 +5,6 @@ Engineering leader and mobile-first software engineer. I've spent years shipping
 ### 🛠 What I'm building
 
 - **[Porthole](https://github.com/gravityrepos/porthole)**: a debug-only agent that lives inside a running Android app and tells you what recomposed and why, which frames dropped, and what's holding the main thread. Kotlin · Compose · MCP
-- **[Pip](https://getpip.bot)**: an all-in-one Discord bot with moderation, XP and rank cards, games, and tickets, plus a web dashboard for server admins.
 - **[Folieux](https://folieux.com)**: dating and relationship tools for the ethical non-monogamy community, with consent built into the data model.
 
 ### 📱 Apps I've worked on
